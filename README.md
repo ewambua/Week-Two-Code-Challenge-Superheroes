@@ -58,7 +58,7 @@ D. Authors Info
 
 ### Licence
 
-[MIT License]
+[MIT License](https://github.com/ewambua/Week-Two-Code-Challenge-Superheroes/blob/main/LICENSE)
 
 
 ### Authors Info
